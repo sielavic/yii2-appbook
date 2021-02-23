@@ -10,7 +10,7 @@ class Product extends \yii\base\Module
     /**
      * {@inheritdoc}
      */
-    public $controllerNamespace = 'common\modules\product\controllers';
+    public $controllerNamespace = 'sielavic\product\controllers';
 
     /**
      * {@inheritdoc}
