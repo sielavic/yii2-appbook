@@ -1,0 +1,21 @@
+{
+    "name": "sielavic/yii2-appbook",
+    "description": "App book module for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," app"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanislav Tutov",
+            "email": "info@sielavic.site"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "sielavic\\product\\": ""
+        }
+    }
+}
